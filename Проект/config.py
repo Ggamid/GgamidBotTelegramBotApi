@@ -1,0 +1,1 @@
+TOKEN = "1732111180:AAFjqlSLJWrK1oTPatpa5KM7TiGELXt6Qwc" # From bot father
